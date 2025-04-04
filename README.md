@@ -484,7 +484,7 @@ Agora que temos uma API REST completa, vamos criar uma aplicação frontend em `
 ```
 Se tudo correu bem, execute a aplicação:
 
-- http://localhost:3000
+- http://localhost:5173
 
 > Se os dados não aparecerem, entre na opção Inspecionar do seu navegador (F12)
 
